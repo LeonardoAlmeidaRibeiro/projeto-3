@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Cheguei Porra</h1>
+      <h1 className = "text-primary">Cheguei Porra</h1>
     </div>
   );
 }
